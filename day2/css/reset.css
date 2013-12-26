@@ -1,0 +1,18 @@
+/*  Reset all html elements */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1, h2{
+    color: #1b66cc;
+}
+
+h1{
+    font-size: 16px;
+}
+
+p{
+    font-size: 12px;
+    margin: 5px 0px;
+}
