@@ -1,0 +1,18 @@
+h1,h2{
+    color:red;
+}
+ul
+{
+list-style-type:plate;
+margin:25px;
+ 
+}
+li
+{
+float: left;
+margin-right: 25px;
+
+}
+ul.nav-1{
+    list-style-type:none;
+}
