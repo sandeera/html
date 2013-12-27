@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 12px;
+    font-family: arial;
+    line-height: 18px;
+}
+
+p {
+    font-weight: normal;
+    font-size: 10px;
+    font-family: arial;
+    margin: 10px 0px;
+}
+
+a {
+    text-decoration: none;
+}
